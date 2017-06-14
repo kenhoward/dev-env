@@ -10,3 +10,6 @@ Basing this off the pluralsight [video](https://app.pluralsight.com/library/cour
 2. `cd dev-env`
 3. `npm i`
 4. start up server with `npm start`
+
+## Side Note
+- Can update mocha reporters using [this](https://mochajs.org/#reporters)
